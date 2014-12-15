@@ -1,6 +1,6 @@
-*/bin/*
 *.o
 *.la
 *.lo
 *.a
 *.libs/*
+*.class
