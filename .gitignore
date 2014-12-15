@@ -1,2 +1,6 @@
-system/build/*
-bin/*
+*/bin/*
+*.o
+*.la
+*.lo
+*.a
+*.libs/*
